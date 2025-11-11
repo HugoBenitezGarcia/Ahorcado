@@ -5,4 +5,4 @@
 -Ganas si descubres todas las letras antes de quedarte sin intentos; pierdes si los intentos llegan a cero y entonces se muestra la palabra completa.
 
 -En la ultima parte del Juego he tenido que usar ia para ayudarme a saber como hacer que me salieran las "_" segun las letras que faltasen.
-![En esto he usado la ia](image2.png)
+![En esto he usado la ia](captura/image2.png)
